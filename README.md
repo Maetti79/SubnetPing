@@ -2,7 +2,6 @@ Download:
 
 https://github.com/Maetti79/SubnetPing/raw/master/SubnetPing/obj/Release/SubnetPing.exe
 
-
 C:\>SubnetPing.exe
 SubnetPing.exe
 SubnetPing [IPv4 Address]
