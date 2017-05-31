@@ -1,0 +1,6 @@
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\obj\Debug\SubnetPing.csprojResolveAssemblyReference.cache
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\bin\Debug\SubnetPing.exe.config
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\bin\Debug\SubnetPing.exe
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\bin\Debug\SubnetPing.pdb
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\obj\Debug\SubnetPing.exe
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\obj\Debug\SubnetPing.pdb

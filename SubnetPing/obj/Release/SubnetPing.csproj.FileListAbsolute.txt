@@ -1,0 +1,5 @@
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\bin\Release\SubnetPing.exe.config
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\bin\Release\SubnetPing.exe
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\bin\Release\SubnetPing.pdb
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\obj\Release\SubnetPing.exe
+c:\users\denni\documents\visual studio 2017\Projects\SubnetPing\SubnetPing\obj\Release\SubnetPing.pdb
