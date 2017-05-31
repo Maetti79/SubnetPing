@@ -2,6 +2,7 @@ Download:
 
 https://github.com/Maetti79/SubnetPing/raw/master/SubnetPing/obj/Release/SubnetPing.exe
 
+<pre>
 C:\>SubnetPing.exe
 SubnetPing.exe
 SubnetPing [IPv4 Address]
@@ -23,3 +24,4 @@ IPv4-Address    Mac-Address             DNS-Name                          ms    
 10.3.1.85       54-E4-3A-E5-5E-7E       airport-express                    0       1
 10.3.1.83       00-18-71-68-C2-FB       -                                  -       -
 10.3.1.151      00-25-64-E3-36-EE       DESKTOP-C4EBIF7                    0       1
+</pre>
